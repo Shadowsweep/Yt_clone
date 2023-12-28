@@ -1,6 +1,6 @@
 # Tech Youtube
 
-# Lisit link
+# Visit link
 https://lambent-salamander-48ba6c.netlify.app/channel/UC-h5FURWe-VHtpGLko4QQgQ
 
 
