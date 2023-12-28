@@ -19,5 +19,7 @@ https://lambent-salamander-48ba6c.netlify.app/channel/UC-h5FURWe-VHtpGLko4QQgQ
 
 ![image](https://github.com/Shadowsweep/Yt_clone/assets/122604770/800f087d-46f7-473e-9a41-1e0144b05048)
 
+# Home page search
+
 ![image](https://github.com/Shadowsweep/Yt_clone/assets/122604770/730013c5-48b2-490d-87a5-efe8ce855546)
 
