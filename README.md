@@ -1,7 +1,7 @@
 # Tech Youtube
 
 # Visit link
-https://lambent-salamander-48ba6c.netlify.app/channel/UC-h5FURWe-VHtpGLko4QQgQ
+https://lambent-salamander-48ba6c.netlify.app/
 
 
 # Home Page
